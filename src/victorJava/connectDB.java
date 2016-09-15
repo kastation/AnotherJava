@@ -17,6 +17,7 @@ public class connectDB {
 
 		    // Do something with the Connection
 		    System.out.println("Connected to mysql db");
+			System.out.println("The data will be showing in the console!");
 		   
 		} catch (SQLException ex) {
 		    // handle any errors
